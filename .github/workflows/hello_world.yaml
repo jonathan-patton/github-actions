@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: hello world
-        run: echo "Hello World"
+        run: echo "Hello World version 2"
         shell: bash
 
   goodbye:
